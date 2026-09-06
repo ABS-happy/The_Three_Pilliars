@@ -59,6 +59,8 @@ It demonstrates how **Business Intelligence and Data Analytics** can be used to 
 - ✔️ Interactive Charts & Filters
 - ✔️ Defence Data Analysis
 
+### 7. Screenshots: 
+
 ---
 
 ### 7. Skills Demonstrated
